@@ -1,0 +1,14 @@
+.lottery-ball{
+    border-radius: 50%;
+    height: 3em;
+    width: 3em;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0.5em;
+    font-weight: bold;
+    font-size: 1.5em;
+}

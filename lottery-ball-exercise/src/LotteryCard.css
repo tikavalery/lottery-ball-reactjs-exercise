@@ -1,0 +1,14 @@
+.Lottery-card-ball-div{
+    display: flex;
+    margin: 2em;
+    justify-content: center;
+    align-items: center;
+}
+
+.Lottery-card-title{
+    text-align: center;
+}
+
+.Lottery-card-button{
+    text-align: center;
+}
